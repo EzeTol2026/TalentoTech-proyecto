@@ -41,11 +41,6 @@ h2{
   gap: 50px;
   list-style: none;
 }
-
-.list-container li:first-of-type{
-  display: none;
-}
-
 main{
   padding: 0rem 3rem;
   text-align: center;
@@ -105,15 +100,14 @@ button{
 input, textarea{
   display: block;
 }
+.btn-submit:hover{
+  cursor:pointer;
+  background-color: blue;
+}
 
 @media (max-width: 900px) {
   header{
     font-size: 1rem;
   }
-  .list-container li:first-of-type{
-  display: block;
-  }
-  .list-container li{
-  display: none;
-  }
+  
 }
