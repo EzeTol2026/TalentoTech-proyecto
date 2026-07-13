@@ -1,0 +1,40 @@
+[
+  {
+    "id":"1",
+    "nombre":"Filete de merluza",
+    "precio":"$10000",
+    "img":"img/merluza.jpg"
+  },
+  {
+    "id":"2",
+    "nombre":"Filete de salmon con piel",
+    "precio":"$30000",
+    "img":"img/filete de salmon con piel.jpg"
+  },
+  {
+    "id":"3",
+    "nombre":"Filete de salmon con piel",
+    "precio":"$30000",
+    "img":"img/filete de salmon con piel.jpg"
+  },
+  {
+    "id":"4",
+    "nombre":"Lavarropas automatico",
+    "precio":"$120000<",
+    "img":"img/lavarropas automatico.jpg"
+  },
+  {
+    "id":"5",
+    "nombre":"Heladera con freezer",
+    "precio":"$210000",
+    "img":"img/HEladera con freezer.jpg"
+  },
+  {
+    "id":"6",
+    "nombre":"Aire acondicionado",
+    "precio":"$310000",
+    "img":"img/aire acondicionado.jpg"
+  }
+
+]
+ 
